@@ -1,6 +1,6 @@
 # ErrorControl
 
-VB6 working copy of `ErrorControl` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: ErrorControl. Output: `ErrorControl.exe`. Allows advanced interpretation of Wise for Windows Installer 4.x 'Error' Logs. `VersionCompanyName`: Dave Robinson.
+VB6 Wise for Windows Installer 4.x error-log interpreter (`ErrorControl.exe`, v2.2) by Dave Robinson (2002). Opens installer error logs with common-dialog / tabbed UI, MSINET, and WebBrowser (`shdocvw`) support for advanced interpretation of Wise MSI error output.
 
 **Source last updated:** 2002-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `ErrorControl` (`ErrorControl.vbp`) | VB6 | WinForms exe | Allows advanced interpretation of Wise for Windows Installer 4.x 'Error' Logs |
+| `ErrorControl` (`ErrorControl.vbp`) | VB6 | WinForms exe | Wise MSI error log interpreter |
 
 ## How to open
 
@@ -30,7 +30,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ErrorControl`.
-Company names in project files: Dave Robinson.
+Company names in project files: Dave Robinson. Copyright 2002 Dave Robinson.
 
 ## License
 
